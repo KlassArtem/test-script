@@ -1,0 +1,28 @@
+body {
+}
+
+.container {
+  display: block;
+
+  margin-left: 320px;
+  margin-right: 320px;
+}
+.list {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  gap: 39px;
+  justify-items: center;
+}
+.list-item {
+  display: inline-block;
+  width: 224px;
+}
+.item-title {
+  margin: auto;
+  padding-top: auto;
+}
+.item-par {
+  margin: auto;
+  padding-top: 15px;
+}
